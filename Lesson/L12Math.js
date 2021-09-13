@@ -1,0 +1,21 @@
+var num = Math.round(3.6);
+var num1 = Math.floor(3.6);
+var num2 = Math.ceil(3.1);
+var num3 = Math.pow(3,2);
+var num4 = Math.sqrt(4);
+var num5 = Math.abs(-2);
+var num6 = Math.min(3,6,1);
+var num7 = Math.max(3,6,1);
+var num8 = Math.PI;
+var num9 = Math.E;
+
+console.log(num);
+console.log(num1);
+console.log(num2);
+console.log(num3);
+console.log(num4);
+console.log(num5);
+console.log(num6);
+console.log(num7);
+console.log(num8);
+console.log(num9);
