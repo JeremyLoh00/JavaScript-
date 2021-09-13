@@ -16,3 +16,4 @@ var car = {
 for(let property in car){
     console.log(car[property]);
 }
+ss
