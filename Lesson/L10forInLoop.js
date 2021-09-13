@@ -12,8 +12,7 @@ var car = {
     model: "C90",
     year: 2021
 }
-//testinglaaa
+
 for(let property in car){
     console.log(car[property]);
 }
-ss
